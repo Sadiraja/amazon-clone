@@ -174,7 +174,7 @@ span{
    
 }
 .hero-section{
-    background-image: url("image.jpg");
+    background-image: url("https://m.media-amazon.com/images/I/71Ie3JXGfVL._SX3000_.jpg");
     background-size: cover;
     height: 600px;
     cursor: pointer;
@@ -204,7 +204,7 @@ span{
     height: 300px;
    
     margin-top: 10px;
-    background-image: url("pc.jpg");
+    background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2023/EBF23/Fuji_Desktop_Single_image_EBF_1x_v1._SY304_CB573698005_.jpg");
     background-size: cover;
     margin-bottom: 25px;
 }
@@ -226,7 +226,7 @@ span{
 .box2-img{
     height: 300px;
     margin-top: 10px;
-    background-image: url("laptop.jpg");
+    background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/us-manual-merchandising/XCM_CUTTLE_1622894_3373440_379x304_1X_en_size1_US._SY304_CB597469214_.jpg");
     background-size:cover;
     margin-bottom: 25px;
 }
@@ -237,7 +237,7 @@ span{
 .box3-img{
     height: 300px;
     margin-top: 10px;
-    background-image: url("personal.jpg");
+    background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2023/EBF23/Fuji_Desktop_Single_image_EBF_1x_v10._SY304_CB573698005_.jpg");
     background-size:cover;
     margin-bottom: 25px;
 }
@@ -250,7 +250,7 @@ span{
     height: 300px;
     
     margin-top: 10px;
-    background-image: url("toy.jpg");
+    background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Events/2023/EBF23/Fuji_Desktop_Single_image_EBF_1x_v3._SY304_CB573698005_.jpg");
     background-size:cover;
     margin-bottom: 25px;
 
@@ -271,7 +271,7 @@ h2{
     height: 275px;
    
     margin-top: 10px;
-    background-image: url("watch.jpg");
+    background-image: url("https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_SmartWatch_1X._SY304_CB639922137_.jpg");
     background-size: cover;
     
     margin-bottom: 25px;
@@ -299,7 +299,7 @@ h2{
     height: 300px;
    
     margin-top: 10px;
-    background-image: url("box6_image.jpg");
+    background-image: url("https://www.webbox.co.uk/wp-content/uploads/2019/04/shutterstock_1095001973.jpg");
     background-size: cover;
     margin-bottom: 25px;
 }
@@ -311,7 +311,7 @@ h2{
     height: 300px;
    
     margin-top: 10px;
-    background-image: url("box7_image.jpg");
+    background-image: url("https://www.theentertainer.pk/cdn/shop/products/546892-little_lots_-_ocean_pals_piano_styles_vary_eb5d0c6a-6216-4333-9ade-da856f7ec806.jpg?v=1670848777&width=533");
     background-size: cover;
     margin-bottom: 25px;
 }
